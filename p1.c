@@ -1,4 +1,4 @@
-//requires fewer iterations and boolean statement evaluation than checking all numbers
+//requires fewer iterations and boolean statement evaluations than checking all numbers
 #include <stdio.h>
 #include <stdlib.h>
 int main(){
